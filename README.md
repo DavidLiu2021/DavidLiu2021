@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidliu2021" alt="davidliu2021" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[https://vercel-portfolio-nine.vercel.app/]](https://zea.framer.website/)
+- 👨‍💻 All of my projects are available at [Game Mart](https://zea.framer.website/)
 
 - 📫 How to reach me **Zzealiu@outlook.com**
 
